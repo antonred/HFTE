@@ -1,1 +1,1 @@
-# HFTE
+# HFTE High-Frequency Trading Engine
