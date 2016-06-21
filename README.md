@@ -1,2 +1,2 @@
 #### High-Frequency Trading Engine
-#### Note. Under active development. Don't use it.
+#### Note. Project under active development. Don't use it.
