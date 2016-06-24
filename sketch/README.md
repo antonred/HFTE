@@ -1,6 +1,6 @@
 #### Finite-state machine sketch
 
-![alt tag](https://github.com/antonred/HFTE/blob/master/pics/TradeFSM.png)
+<p align="center"><img src ="https://github.com/antonred/HFTE/blob/master/pics/TradeFSM.png"/></p>
 
 ##### ZTest.cpp log
 ```
