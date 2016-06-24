@@ -1,5 +1,7 @@
 #### Finite-state machine sketch
 
+![alt tag](https://github.com/antonred/HFTE/blob/master/pics/TradeFSM.png)
+
 ##### ZTest.cpp log
 ```
 [10:55:25.228451] [thread 3348] InitFSMMatrices() No trading policies     ###(InitFSMmatrices:../FSM.cpp:147)
