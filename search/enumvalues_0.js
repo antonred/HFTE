@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['engine_5faction_5flimit_5fbuy_5fcancel',['ENGINE_ACTION_LIMIT_BUY_CANCEL',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7fa07a86a26be81530e1b21bd0987341de3',1,'HFTE']]],
+  ['engine_5faction_5flimit_5fbuy_5fmove',['ENGINE_ACTION_LIMIT_BUY_MOVE',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7faac44b451f5628e8a2984865dcf5c2739',1,'HFTE']]],
+  ['engine_5faction_5flimit_5fbuy_5fplace',['ENGINE_ACTION_LIMIT_BUY_PLACE',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7faf9a83fc4086aaa3eed497b739d8bb00f',1,'HFTE']]],
+  ['engine_5faction_5flimit_5fsell_5fcancel',['ENGINE_ACTION_LIMIT_SELL_CANCEL',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7fac5484165b25f3599fdcd341f8f4e73f9',1,'HFTE']]],
+  ['engine_5faction_5flimit_5fsell_5fmove',['ENGINE_ACTION_LIMIT_SELL_MOVE',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7fa377dfe6aeb84daca9bed158d2cd184ac',1,'HFTE']]],
+  ['engine_5faction_5flimit_5fsell_5fplace',['ENGINE_ACTION_LIMIT_SELL_PLACE',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7fa91a94c58cb15979f0eb83333193d0f6c',1,'HFTE']]],
+  ['engine_5faction_5fnoaction',['ENGINE_ACTION_NOACTION',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7fa9da0dd1810df18477044e40d7d829a06',1,'HFTE']]],
+  ['engine_5factions_5fcount',['ENGINE_ACTIONS_COUNT',['../namespaceHFTE.html#a51d7d5b83633b4baded4e8dd7ec44e7fa3e3a86a60a3049c9e028865e3b1d5a4d',1,'HFTE']]],
+  ['engine_5fstate_5fenter',['ENGINE_STATE_ENTER',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a8cd815da371546c700d5e0b60b7e8071',1,'HFTE']]],
+  ['engine_5fstate_5fexit',['ENGINE_STATE_EXIT',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29af64323831e675a22228d30c6ef4ec373',1,'HFTE']]],
+  ['engine_5fstate_5flimit_5fbuy',['ENGINE_STATE_LIMIT_BUY',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a1f0ebf72b5e4a1a4f617eb0b97d7a0ed',1,'HFTE']]],
+  ['engine_5fstate_5flimit_5fbuy_5fcover',['ENGINE_STATE_LIMIT_BUY_COVER',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a2a1c07684fe5a062225f2f9c874454d0',1,'HFTE']]],
+  ['engine_5fstate_5flimit_5fsell',['ENGINE_STATE_LIMIT_SELL',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a2af64525d58f695c93449945b1efd9f1',1,'HFTE']]],
+  ['engine_5fstate_5flimit_5fsell_5fcover',['ENGINE_STATE_LIMIT_SELL_COVER',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29acaa56bafc0d96c0f0e05a7ef92c20a54',1,'HFTE']]],
+  ['engine_5fstate_5flimit_5fsellbuy',['ENGINE_STATE_LIMIT_SELLBUY',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29afbb3f7d14734a744c18d30e6a6e0c96b',1,'HFTE']]],
+  ['engine_5fstate_5fnostate',['ENGINE_STATE_NOSTATE',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a93fe236c57f4ababf419bbe85526cdff',1,'HFTE']]],
+  ['engine_5fstate_5ftrade_5fbuy',['ENGINE_STATE_TRADE_BUY',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a98235b978270e20ab80ea6aa266c3ed1',1,'HFTE']]],
+  ['engine_5fstate_5ftrade_5fsell',['ENGINE_STATE_TRADE_SELL',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a10a28e9244dffd243427ae7aa3dd13b6',1,'HFTE']]],
+  ['engine_5fstates_5fcount',['ENGINE_STATES_COUNT',['../namespaceHFTE.html#aaf2f2434d98abeffd60a1b659ca2fd29a25b6969b109cecd1438bc83b35ad557f',1,'HFTE']]]
+];
