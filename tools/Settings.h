@@ -2,7 +2,7 @@
 #ifndef HFTE_SETTINGS_H_
 #define HFTE_SETTINGS_H_
 
-/*
+/*!
  * Based on rapidjson https://github.com/miloyip/rapidjson
  *
  * Parses input json file and write out

@@ -2,7 +2,7 @@
 #ifndef HFTE_LOGGING_H_
 #define HFTE_LOGGING_H_
 
-/*
+/*!
  * Logging through spdlog https://github.com/gabime/spdlog
  *
  * Output to console & files
