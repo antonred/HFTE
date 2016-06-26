@@ -1,8 +1,11 @@
 *
 *.*
-!docs
-docs/html/
-!scetch
+!/docs/
+!/docs/*
+!/docs/pics/
+!/docs/pics/*
+/docs/html/
+!/scetch
 !.gitignore
 !LICENSE
 !README.md
