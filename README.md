@@ -1,2 +1,1 @@
-#### High-Frequency Trading Engine
-#### Note. Project under active development. Don't use it.
+# README gh-pages branch
