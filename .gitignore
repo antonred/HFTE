@@ -6,8 +6,10 @@
 !/docs/latex/*
 !/docs/pics/
 !/docs/pics/*
-/docs/html/
-!/scetch
+!/docs/html/
+/docs/html/*
+!/sketch/
+!/sketch/*
 !.gitignore
 !LICENSE
 !README.md
