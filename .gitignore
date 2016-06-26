@@ -1,1 +1,8 @@
+*
+*.*
+!docs
 docs/html/
+!scetch
+!.gitignore
+!LICENSE
+!README.md
