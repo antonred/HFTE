@@ -2,6 +2,8 @@
 *.*
 !/docs/
 !/docs/*
+!/docs/latex/
+!/docs/latex/*
 !/docs/pics/
 !/docs/pics/*
 /docs/html/
